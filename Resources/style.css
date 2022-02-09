@@ -1,0 +1,32 @@
+.skills{
+    padding-left: 35%;
+}
+
+.icon{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.icon-facebook{
+    font-size: 50px;
+    color: #4267B2!important;
+}
+.icon-github{
+    font-size: 50px;
+    color: #2a2a2a!important;
+}
+.icon-linkedin{
+    font-size: 50px;
+    color: #0e76a8!important;
+}
+.icon-whatsapp{
+    font-size: 50px;
+    color: #25D366!important;
+}
+.icon-outlook{
+    font-size: 50px;
+    color: #0078d4!important;
+}
+.icon-telegram{
+    font-size: 50px;
+    color: #0088cc!important;
+}
