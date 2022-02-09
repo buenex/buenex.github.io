@@ -30,3 +30,14 @@
     font-size: 50px;
     color: #0088cc!important;
 }
+.icon-download{
+    font-size: 25px!important;
+    color: #eeeeee!important;
+}
+
+li{
+    list-style:none;
+}
+li::before{
+    content: "\23F5";
+}
