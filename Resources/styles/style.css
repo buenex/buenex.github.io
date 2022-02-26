@@ -50,3 +50,12 @@ html,body
     padding: 0px;
     overflow-x: hidden; 
 }
+
+.list-none{
+    list-style-type: none!important;  
+}
+
+.list-none li::before{
+    list-style: none!important;
+    content: none!important;
+}
